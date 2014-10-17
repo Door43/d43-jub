@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jub:home|Door43 (jub)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jub|d43-jub repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jub/archive/master.zip|d43-jub.zip]]
+
+**Recent Changes**
+{{changes>ns = jub}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jub|Ethnologue data]]
+
